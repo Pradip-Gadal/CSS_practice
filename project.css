@@ -1,0 +1,53 @@
+
+#body{
+    background-color: yellow;
+}
+
+#box{
+    text-align: justify;
+    color: chartreuse;
+    text-decoration: underline wavy purple;
+    font-weight: lighter;
+    font-size: 10px;
+    line-height: 30px;
+    text-transform: uppercase;
+    background-color: black;
+
+}
+
+
+h1{
+    color: rgb(250, 5, 5);
+    text-align: right;
+    text-decoration: underline;
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    line-height: 40px;
+    text-transform: uppercase;
+}
+h2{
+    color: aqua;
+    text-align: center;
+    text-decoration: overline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+
+#button3{
+    background-color: red;
+    font-weight: 900;
+
+}
+
+#p1{
+    text-align: justify;
+    color:green;
+    font-family: 'Times New Roman', Times, serif;
+     font-weight: bolder;
+     font-size: 20px;
+     line-height: 20px;
+     text-transform: lowercase;
+}
+
